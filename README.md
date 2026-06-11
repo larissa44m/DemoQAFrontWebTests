@@ -43,9 +43,9 @@ npm install --save-dev @4tw/cypress-drag-drop
 
 Adicionar o import abaixo no arquivo:
 
-text
 cypress/support/e2e.js (Adicionar nesse arquivo)
 
+Adicionar o seguinte import:
 
 javascript
 import '@4tw/cypress-drag-drop'
