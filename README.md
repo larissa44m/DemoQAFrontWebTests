@@ -47,6 +47,6 @@ cypress/support/e2e.js (Adicionar nesse arquivo)
 
 Adicionar o seguinte import:
 
-javascript
+```javascript
 import '@4tw/cypress-drag-drop'
-
+```
