@@ -27,7 +27,7 @@ Exemplo de relatório após executado teste:
 
 ## Arquivos de teste
 
-O arquivo utilizado no teste `practiceform.cy.js` está localizado em:
+O arquivo txt utilizado no teste `practiceform.cy.js` está localizado em:
 
 
 cypress/file
