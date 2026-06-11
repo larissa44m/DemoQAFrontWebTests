@@ -1,0 +1,239 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Larissa Vivi\\source\\repos\\UnitTestProject1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{666E1052-A311-4A20-A8B7-5E75CEED116D}|UnitTestProject1\\UnitTestProject1.csproj|c:\\users\\larissa vivi\\source\\repos\\unittestproject1\\unittestproject1\\tests\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{666E1052-A311-4A20-A8B7-5E75CEED116D}|UnitTestProject1\\UnitTestProject1.csproj|solutionrelative:unittestproject1\\tests\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{666E1052-A311-4A20-A8B7-5E75CEED116D}|UnitTestProject1\\UnitTestProject1.csproj|C:\\Users\\Larissa Vivi\\source\\repos\\UnitTestProject1\\unittestproject1\\dsl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{666E1052-A311-4A20-A8B7-5E75CEED116D}|UnitTestProject1\\UnitTestProject1.csproj|solutionrelative:unittestproject1\\dsl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{666E1052-A311-4A20-A8B7-5E75CEED116D}|UnitTestProject1\\UnitTestProject1.csproj|C:\\Users\\Larissa Vivi\\source\\repos\\UnitTestProject1\\unittestproject1\\begin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{666E1052-A311-4A20-A8B7-5E75CEED116D}|UnitTestProject1\\UnitTestProject1.csproj|solutionrelative:unittestproject1\\begin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{666E1052-A311-4A20-A8B7-5E75CEED116D}|UnitTestProject1\\UnitTestProject1.csproj|C:\\Users\\Larissa Vivi\\source\\repos\\UnitTestProject1\\unittestproject1\\tests\\logintest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{666E1052-A311-4A20-A8B7-5E75CEED116D}|UnitTestProject1\\UnitTestProject1.csproj|solutionrelative:unittestproject1\\tests\\logintest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{666E1052-A311-4A20-A8B7-5E75CEED116D}|UnitTestProject1\\UnitTestProject1.csproj|C:\\Users\\Larissa Vivi\\source\\repos\\UnitTestProject1\\unittestproject1\\loltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{666E1052-A311-4A20-A8B7-5E75CEED116D}|UnitTestProject1\\UnitTestProject1.csproj|solutionrelative:unittestproject1\\loltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{666E1052-A311-4A20-A8B7-5E75CEED116D}|UnitTestProject1\\UnitTestProject1.csproj|C:\\Users\\Larissa Vivi\\source\\repos\\UnitTestProject1\\unittestproject1\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{666E1052-A311-4A20-A8B7-5E75CEED116D}|UnitTestProject1\\UnitTestProject1.csproj|solutionrelative:unittestproject1\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{666E1052-A311-4A20-A8B7-5E75CEED116D}|UnitTestProject1\\UnitTestProject1.csproj|C:\\Users\\Larissa Vivi\\source\\repos\\UnitTestProject1\\unittestproject1\\pageobjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{666E1052-A311-4A20-A8B7-5E75CEED116D}|UnitTestProject1\\UnitTestProject1.csproj|solutionrelative:unittestproject1\\pageobjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{666E1052-A311-4A20-A8B7-5E75CEED116D}|UnitTestProject1\\UnitTestProject1.csproj|C:\\Users\\Larissa Vivi\\source\\repos\\UnitTestProject1\\unittestproject1\\logsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{666E1052-A311-4A20-A8B7-5E75CEED116D}|UnitTestProject1\\UnitTestProject1.csproj|solutionrelative:unittestproject1\\logsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{666E1052-A311-4A20-A8B7-5E75CEED116D}|UnitTestProject1\\UnitTestProject1.csproj|C:\\Users\\Larissa Vivi\\source\\repos\\UnitTestProject1\\unittestproject1\\taurus.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{666E1052-A311-4A20-A8B7-5E75CEED116D}|UnitTestProject1\\UnitTestProject1.csproj|solutionrelative:unittestproject1\\taurus.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{666E1052-A311-4A20-A8B7-5E75CEED116D}|UnitTestProject1\\UnitTestProject1.csproj|C:\\Users\\Larissa Vivi\\source\\repos\\UnitTestProject1\\unittestproject1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{666E1052-A311-4A20-A8B7-5E75CEED116D}|UnitTestProject1\\UnitTestProject1.csproj|solutionrelative:unittestproject1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\Common7\\IDE\\CommonExtensions\\Microsoft\\TestWindow\\vstest.console.exe.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{666E1052-A311-4A20-A8B7-5E75CEED116D}|UnitTestProject1\\UnitTestProject1.csproj|C:\\Users\\Larissa Vivi\\source\\repos\\UnitTestProject1\\unittestproject1\\globalvariables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{666E1052-A311-4A20-A8B7-5E75CEED116D}|UnitTestProject1\\UnitTestProject1.csproj|solutionrelative:unittestproject1\\globalvariables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{666E1052-A311-4A20-A8B7-5E75CEED116D}|UnitTestProject1\\UnitTestProject1.csproj|C:\\Users\\Larissa Vivi\\source\\repos\\UnitTestProject1\\unittestproject1\\xpathvariables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{666E1052-A311-4A20-A8B7-5E75CEED116D}|UnitTestProject1\\UnitTestProject1.csproj|solutionrelative:unittestproject1\\xpathvariables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\Larissa Vivi\\source\\repos\\UnitTestProject1\\UnitTestProject1\\Tests\\LoginPage.cs",
+              "RelativeDocumentMoniker": "UnitTestProject1\\Tests\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\Larissa Vivi\\source\\repos\\UnitTestProject1\\UnitTestProject1\\Tests\\LoginPage.cs*",
+              "RelativeToolTip": "UnitTestProject1\\Tests\\LoginPage.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T02:23:10.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginTest.cs",
+              "DocumentMoniker": "C:\\Users\\Larissa Vivi\\source\\repos\\UnitTestProject1\\UnitTestProject1\\Tests\\LoginTest.cs",
+              "RelativeDocumentMoniker": "UnitTestProject1\\Tests\\LoginTest.cs",
+              "ToolTip": "C:\\Users\\Larissa Vivi\\source\\repos\\UnitTestProject1\\UnitTestProject1\\Tests\\LoginTest.cs",
+              "RelativeToolTip": "UnitTestProject1\\Tests\\LoginTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T02:23:24.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DSL.cs",
+              "DocumentMoniker": "C:\\Users\\Larissa Vivi\\source\\repos\\UnitTestProject1\\UnitTestProject1\\DSL.cs",
+              "RelativeDocumentMoniker": "UnitTestProject1\\DSL.cs",
+              "ToolTip": "C:\\Users\\Larissa Vivi\\source\\repos\\UnitTestProject1\\UnitTestProject1\\DSL.cs",
+              "RelativeToolTip": "UnitTestProject1\\DSL.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAYwDUAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T02:18:37.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Begin.cs",
+              "DocumentMoniker": "C:\\Users\\Larissa Vivi\\source\\repos\\UnitTestProject1\\UnitTestProject1\\Begin.cs",
+              "RelativeDocumentMoniker": "UnitTestProject1\\Begin.cs",
+              "ToolTip": "C:\\Users\\Larissa Vivi\\source\\repos\\UnitTestProject1\\UnitTestProject1\\Begin.cs",
+              "RelativeToolTip": "UnitTestProject1\\Begin.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwB4AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T02:14:07.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataBase.cs",
+              "DocumentMoniker": "C:\\Users\\Larissa Vivi\\source\\repos\\UnitTestProject1\\UnitTestProject1\\DataBase.cs",
+              "RelativeDocumentMoniker": "UnitTestProject1\\DataBase.cs",
+              "ToolTip": "C:\\Users\\Larissa Vivi\\source\\repos\\UnitTestProject1\\UnitTestProject1\\DataBase.cs",
+              "RelativeToolTip": "UnitTestProject1\\DataBase.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAQwDgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T02:21:26.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Loltest.cs",
+              "DocumentMoniker": "C:\\Users\\Larissa Vivi\\source\\repos\\UnitTestProject1\\UnitTestProject1\\Loltest.cs",
+              "RelativeDocumentMoniker": "UnitTestProject1\\Loltest.cs",
+              "ToolTip": "C:\\Users\\Larissa Vivi\\source\\repos\\UnitTestProject1\\UnitTestProject1\\Loltest.cs",
+              "RelativeToolTip": "UnitTestProject1\\Loltest.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAArwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T03:38:08.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PageObjects.cs",
+              "DocumentMoniker": "C:\\Users\\Larissa Vivi\\source\\repos\\UnitTestProject1\\UnitTestProject1\\PageObjects.cs",
+              "RelativeDocumentMoniker": "UnitTestProject1\\PageObjects.cs",
+              "ToolTip": "C:\\Users\\Larissa Vivi\\source\\repos\\UnitTestProject1\\UnitTestProject1\\PageObjects.cs",
+              "RelativeToolTip": "UnitTestProject1\\PageObjects.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAswIMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T02:20:26.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LogSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Larissa Vivi\\source\\repos\\UnitTestProject1\\UnitTestProject1\\LogSystem.cs",
+              "RelativeDocumentMoniker": "UnitTestProject1\\LogSystem.cs",
+              "ToolTip": "C:\\Users\\Larissa Vivi\\source\\repos\\UnitTestProject1\\UnitTestProject1\\LogSystem.cs",
+              "RelativeToolTip": "UnitTestProject1\\LogSystem.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T02:16:26.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "vstest.console.exe.config",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\Common7\\IDE\\CommonExtensions\\Microsoft\\TestWindow\\vstest.console.exe.config",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\Common7\\IDE\\CommonExtensions\\Microsoft\\TestWindow\\vstest.console.exe.config",
+              "ToolTip": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\Common7\\IDE\\CommonExtensions\\Microsoft\\TestWindow\\vstest.console.exe.config",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\Common7\\IDE\\CommonExtensions\\Microsoft\\TestWindow\\vstest.console.exe.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-16T07:00:40.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "taurus.yml",
+              "DocumentMoniker": "C:\\Users\\Larissa Vivi\\source\\repos\\UnitTestProject1\\UnitTestProject1\\taurus.yml",
+              "RelativeDocumentMoniker": "UnitTestProject1\\taurus.yml",
+              "ToolTip": "C:\\Users\\Larissa Vivi\\source\\repos\\UnitTestProject1\\UnitTestProject1\\taurus.yml",
+              "RelativeToolTip": "UnitTestProject1\\taurus.yml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-11-16T03:42:56.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "app.config",
+              "DocumentMoniker": "C:\\Users\\Larissa Vivi\\source\\repos\\UnitTestProject1\\UnitTestProject1\\app.config",
+              "RelativeDocumentMoniker": "UnitTestProject1\\app.config",
+              "ToolTip": "C:\\Users\\Larissa Vivi\\source\\repos\\UnitTestProject1\\UnitTestProject1\\app.config",
+              "RelativeToolTip": "UnitTestProject1\\app.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-16T02:33:22.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GlobalVariables.cs",
+              "DocumentMoniker": "C:\\Users\\Larissa Vivi\\source\\repos\\UnitTestProject1\\UnitTestProject1\\GlobalVariables.cs",
+              "RelativeDocumentMoniker": "UnitTestProject1\\GlobalVariables.cs",
+              "ToolTip": "C:\\Users\\Larissa Vivi\\source\\repos\\UnitTestProject1\\UnitTestProject1\\GlobalVariables.cs",
+              "RelativeToolTip": "UnitTestProject1\\GlobalVariables.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T02:19:25.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "XpathVariables.cs",
+              "DocumentMoniker": "C:\\Users\\Larissa Vivi\\source\\repos\\UnitTestProject1\\UnitTestProject1\\XpathVariables.cs",
+              "RelativeDocumentMoniker": "UnitTestProject1\\XpathVariables.cs",
+              "ToolTip": "C:\\Users\\Larissa Vivi\\source\\repos\\UnitTestProject1\\UnitTestProject1\\XpathVariables.cs",
+              "RelativeToolTip": "UnitTestProject1\\XpathVariables.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAQwJ0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T02:17:51.347Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

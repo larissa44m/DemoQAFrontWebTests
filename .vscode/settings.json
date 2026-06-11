@@ -1,0 +1,46 @@
+{
+  "editor.codeActionsOnSave": {},
+
+  "editor.dropIntoEditor.preferences": [],
+
+  "editor.fontWeight": "normal",
+
+  "workbench.settings.editor": "json",
+
+  "notebook.editorOptionsCustomizations": {},
+
+  "background.editor": {
+    "useFront": true,
+
+    "style": {
+      "background-position": "100% 100%",
+      "background-size": "auto",
+      "opacity": 0.6
+    },
+
+    "styles": [
+      {},
+      {},
+      {}
+    ],
+
+    "images": [
+      ""
+    ],
+
+    "interval": 0,
+
+    "random": false
+  },
+
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": "string",
+        "settings": {
+          "foreground": "#42b342da"
+        }
+      }
+    ]
+  }
+}
