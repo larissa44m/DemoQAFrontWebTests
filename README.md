@@ -18,7 +18,6 @@ npx cypress open
 
 Ao final de cada teste, é gerado um relatório HTML contendo o passo a passo da execução na pasta:
 
-text
 cypress/logs
 
 Exemplo de relatório após executado teste:
