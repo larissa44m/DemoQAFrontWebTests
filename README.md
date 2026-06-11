@@ -30,7 +30,7 @@ Exemplo de relatório após executado teste:
 
 O arquivo utilizado no teste `practiceform.cy.js` está localizado em:
 
-text
+
 cypress/file
 
 
